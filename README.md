@@ -1,4 +1,7 @@
 # Ladon
+[![Coverage Status](https://coveralls.io/repos/wycleffsean/ladon/badge.svg)](https://coveralls.io/r/wycleffsean/ladon)
+[![Code Climate](https://codeclimate.com/github/wycleffsean/ladon/badges/gpa.svg)](https://codeclimate.com/github/wycleffsean/ladon)
+[![Build Status](https://travis-ci.org/wycleffsean/ladon.svg)](https://travis-ci.org/wycleffsean/ladon)
 
 TODO: Write a gem description
 
