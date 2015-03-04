@@ -4,6 +4,9 @@ group :test do
   gem 'minitest'
   gem 'simplecov'
   gem 'coveralls', require: false
+end
+
+group :development do
   gem 'guard', require: false
   gem 'guard-minitest', require: false
   gem 'ruby_gntp', require: false
